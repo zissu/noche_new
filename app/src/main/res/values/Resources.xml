@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gender">
+        <item>
+            MALE
+        </item>
+        <item>
+            FEMALE
+        </item>
+    </string-array>
+
+    <string-array name="interests">
+        <item>
+            HIPHOP
+        </item>
+        <item>
+            JAZZ
+        </item>
+        <item>
+            DISCO
+        </item>
+        <item>
+            MIZRAHIT
+        </item>
+        <item>
+            LATIN
+        </item>
+        <item>
+            INDI
+        </item>
+        <item>
+            POP
+        </item>
+        <item>
+            METAL
+        </item>
+        <item>
+            ROCK
+        </item>
+        <item>
+            REGGEA
+        </item>
+    </string-array>
+</resources>
